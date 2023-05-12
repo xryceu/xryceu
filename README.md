@@ -109,14 +109,64 @@
   <img align="left" alt="unrealengine" height="40px" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" />
 </a>
 
-<br>
-<br>
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 👉👈🥺 if you like what i do, maybe consider buying me a coffee 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="130" ></a>
 
 <br />
+
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+
+<details>
+  <summary>📊 <b>Github Readme Stats</b></summary>
+ <br />
+ <p align="center">
+  <a href="https://github.com/abhinandanraj">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=dokussei&show_icons=true&theme=radical&count_private=true">
+  </a>
+  <a href="https://github.com/abhinandanraj/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abhinandanraj&layout=compact&theme=radical&langs_count=6" />
+  </a>
+ </p>
+</details>
+
+<details>
+ <summary>🏆 <b>Github Profile Trophy</b></summary>
+ <br />
+ <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-profile-trophy.vercel.app/?username=abhinandanraj&column=8&theme=darkhub"/>
+  </a>
+ </p>
+</details>
+
+<details>
+  <br />
+  <summary>🖥 <b>PC</b></summary>
+  	<ul>
+  	   <li><b>OS:</b> Windows 11 </li>
+	     <li><b>PC: </b> Asrock Bravo 15 (AMD RYZEN 7)</li>
+  	   <li><b>Browser: </b> Firefox Web Browser</li>
+	     <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <br />
+	</ul>
+</details>
+
+<details>
+  <br />
+  <summary>💻 <b>Mac</b></summary>
+  	<ul>
+  	   <li><b>OS:</b> Mac OS </li>
+	     <li><b>Laptop: </b>MacBook Pro (Intel Core i5)</li>
+  	   <li><b>Browser: </b>Safari or Firefox Web Browser</li>
+	     <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <br />
+	</ul>
+</details>
