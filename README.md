@@ -122,7 +122,7 @@
 
 <br />
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+## <img src="https://media4.giphy.com/media/ygexNQ7rmEG32chttM/giphy.gif" width="40"> **Github Stats:**
 
 <details>
   <summary>📊 <b>Github Readme Stats</b></summary>
