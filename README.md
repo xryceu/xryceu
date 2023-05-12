@@ -10,14 +10,13 @@
 
 <a href="https://github.com/Dokussei" target="_blank" >
   <img align="left" alt="Dokussei's | GitHub" width="22px" src="https://img.icons8.com/glyph-neue/512/FFFFFF/github.png" />
-	<a href="hhttps://codepen.io/Dokussei" target="_blank" >
-  <img align="left" alt="Dokussei's | CodePen" width="22px" src="https://cdn.worldvectorlogo.com/logos/codepen-icon.svg" />
 </a>
+<a href="hhttps://codepen.io/Dokussei" target="_blank" >
+  <img align="left" alt="Dokussei's | CodePen" width="22px" src="https://cdn.worldvectorlogo.com/logos/codepen-icon.svg" />
 </a>
 <a href="https://www.instagram.com/dokussei/" target="_blank" >
   <img align="left" alt="Dokussei's | Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-
 <a href="https://www.linkedin.com/in/dokusei" target="_blank" >
   <img align="left" alt="Dokussei's | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -31,13 +30,12 @@
 
 ### <img src="./asset/unicorn.gif" width="25"> **Languages and Tools:**
 
-<code>
 <a href="https://github.com/Dokussei" target="_blank" >
   <img align="left" alt="Dokussei's | GitHub" height="40px"  src="https://img.icons8.com/glyph-neue/512/FFFFFF/github.png" />
-	<a href="hhttps://codepen.io/Dokussei" target="_blank" >
+<a href="hhttps://codepen.io/Dokussei" target="_blank" >
   <img align="left" alt="Dokussei's | CodePen" height="40px" src="https://cdn.worldvectorlogo.com/logos/codepen-icon.svg" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></code>
 <code><a href="https://golang.org" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a></code>
 <code><a href="https://www.python.org" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></code>
 <code><a href="https://www.sketch.com/" target="_blank" > <a href="https://www.typescriptlang.org/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a></code>
