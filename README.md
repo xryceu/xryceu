@@ -6,6 +6,29 @@
 
 <br />
 
+### <img src="./asset/upside_face.gif" width="25"> **Social**
+
+<a href="https://github.com/Dokussei" target="_blank" rel="noreferrer">
+  <img align="left" alt="Dokussei's | GitHub" width="22px" src="https://img.icons8.com/glyph-neue/512/FFFFFF/github.png" />
+	<a href="hhttps://codepen.io/Dokussei" target="_blank" rel="noreferrer">
+  <img align="left" alt="Dokussei's | CodePen" width="22px" src="https://cdn.worldvectorlogo.com/logos/codepen-icon.svg" />
+</a>
+</a>
+<a href="https://www.instagram.com/dokussei/" target="_blank" rel="noreferrer">
+  <img align="left" alt="Dokussei's | Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+
+<a href="https://www.linkedin.com/in/dokusei" target="_blank" rel="noreferrer">
+  <img align="left" alt="Dokussei's | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="mailto:dokussei@gmail.com">
+  <img align="left" alt="Dokussei's | Mail" width="22px" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" />
+</a>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=dokussei&label=Profile%20views&color=0e75b6&style=flat" alt="dokussei"/> </p>
+
+<br />
+
 ### <img src="./asset/unicorn.gif" width="25"> **Languages and Tools:**
 
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></code>
@@ -34,5 +57,11 @@
 <code><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></code>
 <code><a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a></code>
 <code><a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40" style="background:#ffffff; border-radius: 100%;"/> </a></code>
+
+<br />
+
+👉👈🥺 if you like what i do, maybe consider buying me a coffee 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="130" ></a>
 
 <br />
