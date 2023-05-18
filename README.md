@@ -106,14 +106,9 @@
   <img align="left" alt="unity" height="40px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
 </a>
 <a href="https://unrealengine.com/">
-  <img align="left" alt="unrealengine" height="40px" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" />
+  <img alt="unrealengine" height="40px" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" />
 </a>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 
 👉👈🥺 if you like what i do, maybe consider buying me a coffee 🥺👉👈
