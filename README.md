@@ -18,7 +18,7 @@
   <img align="left" alt="Dokussei's | Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/dokusei" >
-  <img align="left" alt="Dokussei's | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Dokussei's | LinkedIN" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
 </a>
 <a href="mailto:dokussei@gmail.com">
   <img align="left" alt="Dokussei's | Mail" width="22px" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" />
