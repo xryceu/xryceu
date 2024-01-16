@@ -8,23 +8,23 @@
 
 ### <img src="./asset/upside_face.gif" width="25"> **Social**
 
-<a href="https://github.com/Dokussei" >
-  <img align="left" alt="Dokussei's | GitHub" width="22px" src="https://img.icons8.com/glyph-neue/512/FFFFFF/github.png" />
+<a href="https://github.com/Xryceu" >
+  <img align="left" alt="Xryceu's | GitHub" width="22px" src="https://img.icons8.com/glyph-neue/512/FFFFFF/github.png" />
 </a>
-<a href="hhttps://codepen.io/Dokussei" >
-  <img align="left" alt="Dokussei's | CodePen" width="22px" src="https://cdn.worldvectorlogo.com/logos/codepen-icon.svg" />
+<a href="hhttps://codepen.io/Xryceu" >
+  <img align="left" alt="Xryceu's | CodePen" width="22px" src="https://cdn.worldvectorlogo.com/logos/codepen-icon.svg" />
 </a>
-<a href="https://www.instagram.com/dokussei/" >
-  <img align="left" alt="Dokussei's | Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://www.instagram.com/xryceu/" >
+  <img align="left" alt="Xryceu's | Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/dokusei" >
-  <img align="left" alt="Dokussei's | LinkedIN" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
+  <img align="left" alt="Xryceu's | LinkedIN" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
 </a>
-<a href="mailto:dokussei@gmail.com">
-  <img align="left" alt="Dokussei's | Mail" width="22px" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" />
+<a href="mailto:xryceu@gmail.com">
+  <img align="left" alt="Xryceu's | Mail" width="22px" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" />
 </a>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=dokussei&label=Profile%20views&color=0e75b6&style=flat" alt="dokussei"/> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=xryceu&label=Profile%20views&color=0e75b6&style=flat" alt="xryceu"/> </p>
 
 <br />
 
@@ -124,11 +124,11 @@
   <summary>📊 <b>Github Readme Stats</b></summary>
  <br />
  <p align="center">
-  <a href="https://github.com/Dokussei">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=Dokussei&show_icons=true&theme=radical&count_private=true">
+  <a href="https://github.com/xryceu">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=xryceu&show_icons=true&theme=radical&count_private=true">
   </a>
-  <!-- <a href="https://github.com/Dokussei/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dokussei&layout=compact&theme=radical&langs_count=6" />
+  <!-- <a href="https://github.com/xryceu/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=xryceu&layout=compact&theme=radical&langs_count=6" />
   </a> -->
  </p>
 </details>
@@ -138,7 +138,7 @@
  <br />
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=Dokussei&column=8&theme=darkhub"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=xryceu&column=8&theme=darkhub"/>
   </a>
  </p>
 </details>
